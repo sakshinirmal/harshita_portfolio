@@ -1,0 +1,21 @@
+{
+  "name": "harshita-portfolio",
+  "version": "1.0.0",
+  "description": "Harshita Nirmal's Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "data-analyst",
+    "harshita-nirmal"
+  ],
+  "author": "Harshita Nirmal",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+} 
